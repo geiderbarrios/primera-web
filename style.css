@@ -1,0 +1,49 @@
+body {
+    font-family: tahoma, helvetica, arial, sans-serif;
+    font-size: 10px;
+    text-align: center;
+    background: #575e58 url(images/page_bg.gif) top center repeat-x;
+    color: #blue;
+    margin: 2;
+    padding: 10px;
+}
+
+html, #wrapper, h1 {
+    margin: 0;
+    padding: 0;
+}
+
+img { border: 0; }
+
+#wrapper {
+    margin: auto;
+    text-align: left;
+    width: 458px;
+    position: relative;
+}
+
+h1, h2, h3 {
+    font-size: 15px;
+
+}
+
+
+h1 {
+    line-height: 20;
+    position: center;
+    top: 0;
+    left: 3;
+    right:3;
+}
+
+h2 {
+    margin: 0 0 8px 0;
+    padding: 0;
+}
+
+h3 {
+    padding: 4px 0 0 0;
+}
+
+
+}
